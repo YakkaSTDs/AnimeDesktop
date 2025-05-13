@@ -3,7 +3,7 @@ Simple anime widgets for kwgt.
 
 Made with love from indonesia.   
 
-Downloads? [Click Here](https://github.com/YakkaSTDs/releases). Choose the latest badge for the latest version!
+Downloads? [Click Here](https://github.com/YakkaSTDs/AnimeDesktop/releases/). Choose the latest badge for the latest version!
 
 ## Previews
 ![Screenshot_20250514-030251](https://github.com/user-attachments/assets/f30a892d-ed93-4006-8448-6cad9bc67ca3)
